@@ -1,0 +1,10 @@
+fx_version 'cerulean'
+game 'gta5'
+description 'Blip Manager'
+author 'Seb <https://discord.com/users/dooubletap>'
+link 'https://github.com/DooubleTap/sl_blips'
+version '1.0.0'
+lua54 'yes'
+
+client_script 'client.lua'
+shared_script 'config.lua'
