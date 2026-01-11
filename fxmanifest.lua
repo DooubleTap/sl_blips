@@ -1,5 +1,5 @@
 fx_version 'cerulean'
-game 'gta5'
+game 'gta5' 
 description 'Blip Manager'
 author 'Seb <https://discord.com/users/dooubletap>'
 link 'https://github.com/DooubleTap/sl_blips'
